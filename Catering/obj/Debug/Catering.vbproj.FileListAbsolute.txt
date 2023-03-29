@@ -1,0 +1,12 @@
+C:\Users\barron_wesley\source\repos\Catering\Catering\bin\Debug\Catering.exe.config
+C:\Users\barron_wesley\source\repos\Catering\Catering\bin\Debug\Catering.exe
+C:\Users\barron_wesley\source\repos\Catering\Catering\bin\Debug\Catering.pdb
+C:\Users\barron_wesley\source\repos\Catering\Catering\bin\Debug\Catering.xml
+C:\Users\barron_wesley\source\repos\Catering\Catering\obj\Debug\Catering.vbproj.AssemblyReference.cache
+C:\Users\barron_wesley\source\repos\Catering\Catering\obj\Debug\Catering.frmCatering.resources
+C:\Users\barron_wesley\source\repos\Catering\Catering\obj\Debug\Catering.Resources.resources
+C:\Users\barron_wesley\source\repos\Catering\Catering\obj\Debug\Catering.vbproj.GenerateResource.cache
+C:\Users\barron_wesley\source\repos\Catering\Catering\obj\Debug\Catering.vbproj.CoreCompileInputs.cache
+C:\Users\barron_wesley\source\repos\Catering\Catering\obj\Debug\Catering.exe
+C:\Users\barron_wesley\source\repos\Catering\Catering\obj\Debug\Catering.xml
+C:\Users\barron_wesley\source\repos\Catering\Catering\obj\Debug\Catering.pdb
